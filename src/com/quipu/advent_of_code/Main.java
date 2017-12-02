@@ -8,5 +8,11 @@ public class Main {
                 .runPart1()
                 .runPart2Test()
                 .runPart2();
+
+        new Day2()
+                .runPart1Test()
+                .runPart1()
+                .runPart2Test()
+                .runPart2();
     }
 }
