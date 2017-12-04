@@ -14,5 +14,11 @@ public class Main {
                 .runPart1()
                 .runPart2Test()
                 .runPart2();
+
+        new Day3()
+                .runPart1Test()
+                .runPart1()
+                .runPart2Test()
+                .runPart2();
     }
 }
